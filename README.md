@@ -22,4 +22,8 @@ Finally, an **RFM** model is implemented to predict the most valuable customers\
 > - F-Frequency, consumption frequency
 > - M-Monetary, consumption amount
 
-## 4\. To be continued...
+## 4\. Closed\-Companies📉
+
+Learn how to draw word cloud\.
+
+## 5\. To be continued...
