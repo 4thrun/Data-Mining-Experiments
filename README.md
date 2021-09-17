@@ -26,4 +26,8 @@ Finally, an **RFM** model is implemented to predict the most valuable customers\
 
 Learn how to draw word cloud\.
 
-## 5\. To be continued...
+## 5\. Chinese\-News\-Digest\-Classification
+
+This experiment implements CNN (Convolutional Neural Networks) to make inference using a dataset of 56821 pieces of Chinese news digest fetched from websites\.
+
+## 6\. To be continued ... 
