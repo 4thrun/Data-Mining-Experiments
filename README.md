@@ -30,4 +30,10 @@ Learn how to draw word cloud\.
 
 This experiment implements **CNN (Convolutional Neural Networks)** to make inference using a dataset of 56821 pieces of Chinese news digest fetched from websites\. The purpose of the model is to classify sentences into one of ten categories\.
 
-## 6\. To be continued ... 
+## 6\. Malicious-URL😈
+
+With this analysis, we explored some important features that have proved to be sound and effective in predicting phishing/malicious websites based on lexical characteristics of URL.
+
+We have 2 datasets: **top-1m.csv** (most visited domains) and **phishing_verified_online.csv** as a collection of malicious URLs (where domains can be duplicated)\.
+
+## 7\. To be continued ...
