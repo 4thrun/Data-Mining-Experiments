@@ -36,4 +36,8 @@ With this analysis, we explored some important features that have proved to be s
 
 We have 2 datasets: **top-1m.csv** (most visited domains) and **phishing_verified_online.csv** as a collection of malicious URLs (where domains can be duplicated)\.
 
-## 7\. To be continued ...
+## 7\. XSS\-Detection💀
+
+Detect XSS strings using word2vec and SVM\.
+
+## 8\. To be continued ...
