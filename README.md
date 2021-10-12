@@ -38,6 +38,8 @@ We have 2 datasets: **top-1m.csv** (most visited domains) and **phishing_verifie
 
 ## 7\. XSS\-Detection💀
 
-Detect XSS strings using word2vec and SVM\.
+Detect XSS strings using word2vec and MLP (Multi\-Layer Perceptron)\. 
+
+**xssed.csv** is a classic data set of XSS codes\. 
 
 ## 8\. To be continued ...
