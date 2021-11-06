@@ -47,3 +47,8 @@ Detect XSS strings using word2vec and MLP (Multi\-Layer Perceptron)\.
 > Domain generation algorithms (DGA) are algorithms seen in various families of malware that are used to periodically generate a large number of domain names that can be used as rendezvous points with their command and control servers. The large number of potential rendezvous points makes it difficult for law enforcement to effectively shut down botnets, since infected computers will attempt to contact some of these domain names every day to receive updates or commands. The use of public-key cryptography in malware code makes it unfeasible for law enforcement and other actors to mimic commands from the malware controllers as some worms will automatically reject any updates not signed by the malware controllers.
 
 Use N\-Gram and SVM (not so suitable for this task)\.
+
+## 9\. Webshell\-Detection🙄
+
+Detect PHP webshell using **Naive\-Bayes** and **Random Forest**\.
+
